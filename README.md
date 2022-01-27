@@ -6,7 +6,7 @@ I believe being a Full Stack Developer is a constant learning experience, and I 
 <br>
 🌱 I’m currently learning Ruby on Rails.
 <br>
-🔭 I’m currently working on cloning Wordle.
+🔭 I’m currently working on cloning <a href='https://www.powerlanguage.co.uk/wordle/'>Wordle</a>.
 <br>
 😀 I like to play the guitar, listen to music and play video games on my leisure time.
 <br>
