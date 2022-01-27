@@ -10,3 +10,4 @@ I believe being a Full Stack Developer is a constant learning experience, and I 
 <br>
 😀 I like to play the guitar, listen to music and play video games on my leisure time.
 <br>
+🔗 <a href="https://www.linkedin.com/in/jacyespinosa">LinkedIn</a>
