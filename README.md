@@ -4,7 +4,7 @@ I believe being a Full Stack Developer is a constant learning experience, and I 
 <br> <br> 
 💪 Skills: Python, Flask, SqlAlchemy, PostgreSQL, HTML/CSS, Javascript, Selenium and BeautifulSoup.
 <br>
-🌱 I’m currently learning React.
+🌱 I’m currently learning React and Node.js.
 <br>
 🔭 I’m currently working on cloning <a href='https://www.powerlanguage.co.uk/wordle/'>Wordle</a>.
 <br>
