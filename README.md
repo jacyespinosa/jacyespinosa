@@ -4,7 +4,7 @@ I believe being a Full Stack Developer is a constant learning experience, and I 
 <br> <br> 
 💪 Skills: Python, Flask, SQLite, PostgreSQL, HTML/CSS, Javascript, React, Node.js.
 <br>
-🌱 I’m currently learning MongoDB.
+🌱 I’m currently learning NoSQL datababase such as MongoDB.
 <br>
 🔭 I’m currently working on developing a Fantasy 🏈 Sit/Start web app.
 <br>
